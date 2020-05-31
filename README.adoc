@@ -1,0 +1,9 @@
+= MicroStream
+
+== Links
+* https://microstream.one (offizielle Seite)
+* API: https://api.docs.microstream.one
+* MicroStream (mehrteiliger Artikel von Sven Ruppert)
+** link:https://jaxenter.de/java/inspectorj-microstream-persistenz-serialisierung-88476[Teil 1: Hoch performante Persistenz und Serialisierung?]
+** link:https://jaxenter.de/java/inspectorj-microstream-persistenz-serialisierung-2-88737[Teil 2: Konfiguration der Storage Engine]
+** link:https://jaxenter.de/java/inspectorj-microstream-persistenz-serialisierung-3-88930[Teil 3: Speichern von Graphen und Datenstrukturen mit zykischen Verbindungen]
