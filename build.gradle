@@ -16,9 +16,11 @@ dependencies {
     implementation 'one.microstream:storage.embedded:03.00.00-MS-GA'
     implementation 'org.rapidpm:rapidpm-functional-reactive:01.00.04-RPM'
     implementation 'org.rapidpm:rapidpm-logger-adapter:01.00.04-RPM'
+    implementation 'org.apache.commons:commons-lang3:3.10'
 //    implementation 'one.microstream:storage.embedded.configuration:03.00.00-MS-GA'
 
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.2'
+    testImplementation 'org.assertj:assertj-core:3.16.1'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.6.2'
 }
 

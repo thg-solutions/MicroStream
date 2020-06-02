@@ -1,9 +1,15 @@
 = MicroStream
 
+This repository consists of two distinct parts:
+
+* code from a series of articles by Sven Ruppert, slightly modified. (package org.example, see <<Links>>).
+* the attempt to rebuild a simple repository I developed for "link:https://github.com/thg-solutions/prototype[prototype]" (package de.thg).
+
 == Links
-* https://microstream.one (offizielle Seite)
+
+* https://microstream.one (official website)
 * API: https://api.docs.microstream.one
-* MicroStream (mehrteiliger Artikel von Sven Ruppert)
+* MicroStream (series of articles by Sven Ruppert)
 ** link:https://jaxenter.de/java/inspectorj-microstream-persistenz-serialisierung-88476[Teil 1: Hoch performante Persistenz und Serialisierung?]
 ** link:https://jaxenter.de/java/inspectorj-microstream-persistenz-serialisierung-2-88737[Teil 2: Konfiguration der Storage Engine]
 ** link:https://jaxenter.de/java/inspectorj-microstream-persistenz-serialisierung-3-88930[Teil 3: Speichern von Graphen und Datenstrukturen mit zykischen Verbindungen]
